@@ -1,5 +1,7 @@
 Objective: To create Pivot tables and Charts to analyze the performance of employees, trends in payment methods, and services opted by customers.
 
+Sheet : https://docs.google.com/spreadsheets/d/10nA0Z0lmNXdrAOhjS1daAAshj0OpdSe25iPjA4kVsL0/edit?usp=sharing
+
 Findings:
 
 > The highest performing employee demonstrates a 70% improvement compared to the lowest performing employee.
